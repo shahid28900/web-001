@@ -1,0 +1,19 @@
+body{
+    background-image: url(../img/360_F_167235520_AFrB955JhCwhkpz1ev2L7X9SBcpVgAyg.jpg);
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.bar{
+    text-align: center;
+}
+li a{
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
