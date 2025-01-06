@@ -2,6 +2,23 @@ body{
     background-image: url(../img/360_F_167235520_AFrB955JhCwhkpz1ev2L7X9SBcpVgAyg.jpg);
     color: white;
 }
+.container-2{
+    max-width: 1200px;
+    margin:auto;
+    margin-top: 10px;
+    padding: 20px;
+}
+.container-3{
+    max-width: 1200px;
+    margin:auto;
+    margin-top: 10px;
+    padding: 20px;
+}
+.ifrm{
+    /* align-items: center;
+    justify-content: center; */
+    text-align: center;
+}
 h1{
     text-align: center;
 }
